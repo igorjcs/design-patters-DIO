@@ -9,7 +9,7 @@ import one.digitalinnovation.gof.strategy.ComportamentoAgressivo;
 import one.digitalinnovation.gof.strategy.ComportamentoDefensivo;
 import one.digitalinnovation.gof.strategy.ComportamentoNormal;
 import one.digitalinnovation.gof.strategy.Robo;
-
+ 
 public class Test {
 
 	public static void main(String[] args) {
